@@ -29,9 +29,9 @@ What drives me is the intersection of **AI and cybersecurity** — using machine
 
 ```python
 zulkifal = {
-    "focus"     : ["Machine Learning", "Explainable AI", "Cybersecurity ML"],
+    "focus"     : ["Machine Learning", "Explainable AI", "AI Engineering"],
     "currently" : "Building production-grade ML pipelines & XAI systems",
-    "learning"  : ["Advanced Feature Engineering", "Deep Learning", "MLOps"],
+    "learning"  : ["ML", "Deep Learning", "Al Engineering"],
     "motto"     : "Data is the raw material; intelligence is the product."
 }
 ```
@@ -39,7 +39,7 @@ zulkifal = {
 ### 🔍 My Core Interests
 - 🤖 Machine Learning & Predictive Modeling
 - 💡 Explainable AI (SHAP, feature attribution)
-- 🛡️ Cybersecurity & Phishing Detection
+- 🛡️ Phishing Detection
 - 📊 Data Analytics & Visualization
 - ⚙️ End-to-End ML Pipelines & Deployment
 - 📈 Business Intelligence & Dashboarding
@@ -98,7 +98,7 @@ zulkifal = {
 - 🔁 Reorder pattern & frequency analysis
 - 📈 Rich data visualizations & business insights
 
-[![View Project](https://img.shields.io/badge/View%20Project-Instacart%20Analysis-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZulkifalKhan889)
+[![View Project](https://img.shields.io/badge/View%20Project-Instacart%20Analysis-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZulkifalKhan889/Instacart_app)
 
 ---
 
