@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2EA043&center=true&vCenter=true&width=700&lines=Data+Science+Student+%7C+Peshawar%2C+Pakistan;SQL+%2B+Python+%2B+Power+BI+%2B+Excel;Machine+Learning+%26+Explainable+AI;Open+to+remote+Data+%26+AI+roles" alt="Typing intro" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-zulkifal--khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulkifal-khan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-zulkifal--khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zulkifal-khan-a4b1a5351/)
 [![Email](https://img.shields.io/badge/Email-zulkifalkhan126@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zulkifalkhan126@gmail.com)
 [![X](https://img.shields.io/badge/X-@its__kifal-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/its_kifal)
 ![Profile Views](https://komarev.com/ghpvc/?username=ZulkifalKhan889&style=for-the-badge&color=2ea043&label=PROFILE+VIEWS)
